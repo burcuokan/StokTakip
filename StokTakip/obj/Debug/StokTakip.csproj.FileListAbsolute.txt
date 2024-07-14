@@ -1,0 +1,17 @@
+C:\Users\okan113\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\okan113\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\okan113\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csprojAssemblyReference.cache
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmMusteriEkle.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmMusteriListeleme.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmKategori.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmMarka.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmUrunEkle.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmUrunListelemeSayfası.resources
+C:\Users\okan113\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.FrmSatisListeleme.resources
