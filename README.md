@@ -10,3 +10,5 @@ Veri tabanlı marka, kategori, müşteri ekleme ve listeleme, ürün ekleme ve l
 ![Ekran Alıntısı 3](https://github.com/user-attachments/assets/14bcca15-e99c-41ff-a504-e0a16e42855f)
 
 ![Ekran Alıntısı 4](https://github.com/user-attachments/assets/2289ea69-ba6b-4ebe-b670-5941fba15118)
+
+![Ekran Alıntısı 5](https://github.com/user-attachments/assets/787e1240-15de-49ee-a550-5a4b67a53acf)
