@@ -1,5 +1,4 @@
 # 🚀 STOK TAKİP OTOMASYONU
----
 
 Bu proje, C#, ADO.NET ve MSSQL teknolojileri ile geliştirilmiş bir stok takip otomasyonudur. Uygulama, ürün, müşteri, satış ve kategori verilerinin yönetilmesini sağlar. Kullanıcılar, ürün ekleme, güncelleme, satış işlemleri ve stok durumunu takip edebilir.
 
