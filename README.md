@@ -73,7 +73,6 @@ Bu proje, C#, ADO.NET ve MSSQL teknolojileri ile geliştirilmiş bir stok takip 
 • Marka Sayfası, belirli bir kategoriye göre markaların eklenmesini sağlar.
 
 📍 **Uygulamaya Ait Bazı Görseller**
----
 
 **Satış Sayfası**
 
